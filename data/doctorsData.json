@@ -1,0 +1,88 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. John Smith",
+      "experience": "10 years",
+      "doctorType": "Cardiologist",
+      "availabilityDays": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "id": 2,
+      "name": "Dr. Sarah Johnson",
+      "experience": "8 years",
+      "doctorType": "Dermatologist",
+      "availabilityDays": ["Tuesday", "Thursday"]
+    },
+    {
+      "id": 3,
+      "name": "Dr. David Lee",
+      "experience": "15 years",
+      "doctorType": "Pediatrician",
+      "availabilityDays": ["Monday", "Tuesday", "Thursday"]
+    },
+    {
+      "id": 4,
+      "name": "Dr. Emily Wilson",
+      "experience": "12 years",
+      "doctorType": "Orthopedic Surgeon",
+      "availabilityDays": ["Wednesday", "Friday"]
+    },
+    {
+      "id": 5,
+      "name": "Dr. Lisa Brown",
+      "experience": "9 years",
+      "doctorType": "Psychiatrist",
+      "availabilityDays": ["Tuesday", "Thursday", "Saturday"]
+    },
+    {
+      "id": 6,
+      "name": "Dr. Michael Clark",
+      "experience": "14 years",
+      "doctorType": "Gynecologist",
+      "availabilityDays": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "id": 7,
+      "name": "Dr. Jennifer White",
+      "experience": "7 years",
+      "doctorType": "Ophthalmologist",
+      "availabilityDays": ["Tuesday", "Thursday"]
+    },
+    {
+      "id": 8,
+      "name": "Dr. James Wilson",
+      "experience": "18 years",
+      "doctorType": "Neurologist",
+      "availabilityDays": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "id": 9,
+      "name": "Dr. Elizabeth Adams",
+      "experience": "11 years",
+      "doctorType": "Dentist",
+      "availabilityDays": ["Tuesday", "Thursday"]
+    },
+    {
+      "id": 10,
+      "name": "Dr. Robert Harris",
+      "experience": "20 years",
+      "doctorType": "Surgeon",
+      "availabilityDays": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "id": 11,
+      "name": "Dr. Jessica Miller",
+      "experience": "13 years",
+      "doctorType": "Endocrinologist",
+      "availabilityDays": ["Tuesday", "Thursday"]
+    },
+    {
+      "id": 12,
+      "name": "Dr. William Turner",
+      "experience": "9 years",
+      "doctorType": "Rheumatologist",
+      "availabilityDays": ["Monday", "Wednesday", "Friday"]
+    }
+  ]
+}
