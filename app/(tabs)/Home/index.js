@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, Image, FlatList, StyleSheet } from 'react-native';
-import doctorsData from '../../data/Doctors';
+import doctorsData from '../../../data/Doctors';
 import { Link } from '@react-navigation/native';
 import { useNavigation } from '@react-navigation/native';
 const DoctorGrid = () => { 

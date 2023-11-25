@@ -10,7 +10,6 @@ export default function _layout(){
             <Stack.Screen name="user/sign_in" options={{title : "Sign In"}} />
             <Stack.Screen name="user/sign_up" options={{title : "Sign Up"}} />
             <Stack.Screen name="(tabs)" options={{headerShown:false}} />
-
         </Stack>
     )
 }
